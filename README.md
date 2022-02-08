@@ -1,6 +1,6 @@
 # panda-commerce-bootstrap
 
-It is simple landing page design for practice purpose
+A simple , static and one page Ecommerce website design .
 
 [Live Site](https://misbahmuib.github.io/panda-commerce-bootstrap/)
 
