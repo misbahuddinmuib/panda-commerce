@@ -1,6 +1,6 @@
 # panda-commerce-bootstrap
 
-A simple , static and one page Ecommerce website design .
+A simple , static and one page Ecommerce website design . It is a XD to HTML conversion .
 
 [Live Site](https://misbahmuib.github.io/panda-commerce-bootstrap/)
 
